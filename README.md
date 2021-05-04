@@ -1,2 +1,3 @@
-# vanilla-js-jest-boilerplate
-boilerplate code to get started with vanilla JS web apps that use jest unit testing
+# Pokedex
+A web app to retrieve pokemons using the [pokeAPI](https://pokeapi.co/api/v2/).
+This was an exercise to practice working with APIs and JSON.
